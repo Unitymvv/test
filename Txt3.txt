@@ -1,1 +1,3 @@
 Txt 3 terri
+Tetri and konti
+Text for commit
